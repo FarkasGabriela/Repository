@@ -12,5 +12,7 @@
 	Je rýchlejšie možné implementovať aj zmeny v prípade potreby do jednoducho napísaného kódu, ale aj odovzdať kód inému programátorovi. 
  
 4.     Najlepšie sa pracuje v čase, kedy má daný programátor svoj produktívny čas pre kreatívnu činnosť. 
-	Programátor sa potrebuje plne koncentrovať na kód, ktorý píše a akékoľvek vyrušenia vedú k podstatným predĺženiam času, ktorý je potrebný na taký istý rovnaký výkon, aký by podal bez vyrušení.
+
+5. 	Programátor sa potrebuje plne koncentrovať na kód, ktorý píše a akékoľvek vyrušenia vedú k podstatným predĺženiam času, ktorý je potrebný na taký istý rovnaký výkon, aký by podal bez vyrušení.
+  	 Celý život sa musíme učiť, zdokonaľovať sa vo svojej práci a vyjsť zo svojej komfortnej zóny, aby sme nepoužívali dokola tie nástroje a spôsoby, ktoré sa môžu časom zmeniť, treba si rozširovať obzory a hľadať nové spôsoby ako riešiť kód. Pokrok si na nás nepočká.
  
