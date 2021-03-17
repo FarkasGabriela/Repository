@@ -15,4 +15,7 @@
 
 5. 	Programátor sa potrebuje plne koncentrovať na kód, ktorý píše a akékoľvek vyrušenia vedú k podstatným predĺženiam času, ktorý je potrebný na taký istý rovnaký výkon, aký by podal bez vyrušení.
   	 Celý život sa musíme učiť, zdokonaľovať sa vo svojej práci a vyjsť zo svojej komfortnej zóny, aby sme nepoužívali dokola tie nástroje a spôsoby, ktoré sa môžu časom zmeniť, treba si rozširovať obzory a hľadať nové spôsoby ako riešiť kód. Pokrok si na nás nepočká.
+
+ 6.     Spolupráca je nevyhnutá pre programátora pre rozsah vedomostí, znalostí a rýchlosť pokroku doby v akej žijeme. Nie je možné, aby jeden programátor bol špecialista na všetko- potrebuje mať okolo seba niekoho na back-end, niekoho na front-end, niekoho, kto je špecialista na databázy a pod.
+	 Občas je k ďalšiemu pokroku v programovaní potrebný iný uhol pohľadu a inšpirácia z okolia, pretože riešenie problému nám nemusí zabrať celé týždne, stačí niekedy dobre mienená rada z okolia. 
  
