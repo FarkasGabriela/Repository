@@ -11,3 +11,6 @@
 	 Je tak jednoduchšie nájsť chyby, ale aj vyhnúť sa ďalším plynúcim z komplikovanosti napísaného kódu. 
 	Je rýchlejšie možné implementovať aj zmeny v prípade potreby do jednoducho napísaného kódu, ale aj odovzdať kód inému programátorovi. 
  
+4.     Najlepšie sa pracuje v čase, kedy má daný programátor svoj produktívny čas pre kreatívnu činnosť. 
+	Programátor sa potrebuje plne koncentrovať na kód, ktorý píše a akékoľvek vyrušenia vedú k podstatným predĺženiam času, ktorý je potrebný na taký istý rovnaký výkon, aký by podal bez vyrušení.
+ 
