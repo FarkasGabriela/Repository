@@ -6,3 +6,8 @@
 	Nie je potrebné sa znova a znova vracať späť k nepodstatným maličkostiam a riešiť dokola tie isté riadky kódu len pre lepší estetický zážitok z kódu resp. vykonávať nepotrebné kozmetické zásahy do kódu.
  	Nie sú to efektívne činnosti, ktoré prinášajú peniaze, a preto musíme mať heslo – urob to a pošli to ďalej, ak to funguje tak ako má.
  
+3.     Existujú stovky riešení všetkých zadaní pri kódovaní. Každý myslí inak, to isté platí aj pre programátorov.
+	 Najlepšie je však vždy hľadať, čo najjednoduchší spôsob, ako napísať program.
+	 Je tak jednoduchšie nájsť chyby, ale aj vyhnúť sa ďalším plynúcim z komplikovanosti napísaného kódu. 
+	Je rýchlejšie možné implementovať aj zmeny v prípade potreby do jednoducho napísaného kódu, ale aj odovzdať kód inému programátorovi. 
+ 
