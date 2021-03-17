@@ -1,3 +1,8 @@
 7 návykov vysoko efektívnych programátorov
 
 1.     Programovanie je fyzicky náročná činnosť, pretože si vyžaduje sedenie pri počítači  veľa hodín denne v neprirodzenej polohe. V dlhodobom meradle poškodzuje zdravie, a preto je veľmi dôležité, aby programátor nepodceňoval pitný režim, kvalitný spánok a cvičenie, ktoré posilňuje svaly. Spánok je dôležitý pre psychickú stránku a fyzické aktivity pre prevenciu pred chorobami z povolania. 
+
+2.     Postoj k pracovným činnostiam je veľmi dôležitý. Programátor sa musí priamočiaro zamerať na ciele a tomu prispôsobiť všetky svoje činnosti. 
+	Nie je potrebné sa znova a znova vracať späť k nepodstatným maličkostiam a riešiť dokola tie isté riadky kódu len pre lepší estetický zážitok z kódu resp. vykonávať nepotrebné kozmetické zásahy do kódu.
+ 	Nie sú to efektívne činnosti, ktoré prinášajú peniaze, a preto musíme mať heslo – urob to a pošli to ďalej, ak to funguje tak ako má.
+ 
