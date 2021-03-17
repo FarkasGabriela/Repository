@@ -19,3 +19,5 @@
  6.     Spolupráca je nevyhnutá pre programátora pre rozsah vedomostí, znalostí a rýchlosť pokroku doby v akej žijeme. Nie je možné, aby jeden programátor bol špecialista na všetko- potrebuje mať okolo seba niekoho na back-end, niekoho na front-end, niekoho, kto je špecialista na databázy a pod.
 	 Občas je k ďalšiemu pokroku v programovaní potrebný iný uhol pohľadu a inšpirácia z okolia, pretože riešenie problému nám nemusí zabrať celé týždne, stačí niekedy dobre mienená rada z okolia. 
  
+7.     Práca programátora však obnáša veľa času stráveného osamote, kedy si píše sám kód, študuje manuály, rozmýšľa, testuje si kód, či hľadá ďalšie možnosti. 
+	Tento čas osamote je nevyhnutný pre rozsah logických a abstraktných súvislostí, na ktoré musí pri písaní myslieť. 
