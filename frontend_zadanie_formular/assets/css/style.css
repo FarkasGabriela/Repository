@@ -1,0 +1,82 @@
+body
+{  
+    background: -webkit-linear-gradient(to right, #5888EC, #3749EA);
+    background: linear-gradient(to right, #5888EC, #3749EA);
+    width:50%;
+    position: relative;
+    margin: auto;
+    line-height: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+ }
+ 
+ h1
+ {
+  text-align: center;
+  color: white;
+  margin: 0;
+  padding: 10px 100px;
+  text-transform: uppercase;
+  font-size: 20px;
+  font-weight: normal;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+ }
+
+.container
+{
+  height: 425px;
+  width: 350px;
+  margin: 20px auto;
+  background: #94A1BB;
+  box-shadow: 0 0 3px rgba(0, 0, 0, 0.1);
+  border-radius: 20px;
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+ }
+
+ input:focus
+{
+    outline: 2px solid #8abeb2;
+ }
+
+button {
+  text-transform: uppercase;
+  font-weight: bold;
+  display: block;
+  margin: 30px auto;
+  background: #009DFF;
+  border-radius: 30px;
+  width: 200px;
+  height: 50px;
+  font-size: 17px;
+  color: white;
+}
+
+button:active {
+  position: relative;
+  top: 1px;
+}
+
+button:hover {
+  background: #2400FF;
+  border-bottom-color: #111;
+}
+
+#amountBill {
+  padding: 5px 5px 5px 5px;
+  margin-left: 20px;
+  font-size: 15px;
+}
+
+#serviceTip {
+  padding: 5px 5px 5px 5px;
+  margin-left: 20px;
+  font-size: 15px;
+}
+
+#peopleCount {
+  padding: 5px 5px 5px 5px;
+  margin-left: 20px;
+  font-size: 15px;
+}

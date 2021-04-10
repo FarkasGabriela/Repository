@@ -1,0 +1,48 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Lato&family=Lora:ital,wght@0,400;1,400;1,700&family=Open+Sans&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="assets/css/normalize.css">
+    <link rel="stylesheet" href="assets/css/style.css">
+    <title>Môj formulár</title>
+</head>
+<body>
+ 
+<form section class="section-1">
+      <h1>Tip calculator</h1>
+
+    </section>
+   
+        <div class= "container">
+            <form name="formular" action= "# " method ="GET" class="container">
+
+                <label for="amount">How much was your bill?</label>
+                <input id="amountBill" type="number" name="amount" placeholder="Total amount in EUR"> <br>
+
+                <label for="Tip">How was your service? </label> <br>
+                <select id= "serviceTip" name="Tip" ><br>
+                   <option value="0.01">1 % tip</option>
+                   <option value="0.02">2 % tip</option>
+                   <option value="0.03">3 % tip</option>
+                   <option value="0.04">4 % tip</option>
+                   <option value="0.05">5 % tip</option>
+                  </select><br>
+
+                <label for="people">How many people are sharing the bill?</label>
+                <input id="peopleCount" type= "number" name="sharing" placeholder="number, min.1 person"> <br>
+               <button name="calculateButton" type="button"               onclick="Calculation()">Calculate</button>
+
+        </div>
+           
+   
+    <script src="assets/js/myScript.js"></script>
+</form>
+
+</body>
+
+</html>
